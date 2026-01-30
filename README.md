@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Sumit 👋
 
-<!--
-**SumitPandey666/SumitPandey666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- Software Developer
+- Movie & TV series addict 🎬 (1000+ watched)
+- Into dark, psychological storytelling  
+  *Dexter, Dark, Hannibal, From, The Mentalist*
 
-Here are some ideas to get you started:
+## 🧠 Philosophy
+- Stoicism
+- Skepticism & critical thinking
+- Truth over comfort
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Influences
+- Christopher Hitchens
+- Sam Harris
+- Richard Dawkins
+- Thomas Sowell
+- Milton Friedman
+- Richard Feynman
+
+## 🛠 Tech
+- Java, Spring Boot
+- REST APIs
+- MySQL
+- AOP, Caching, Vault (HashiCorp)
+- System Design
+
+## 🚀 Currently
+- Building backend-heavy Spring Boot applications
+- Exploring clean architecture & security best practices
+
+---
+> *“What can be asserted without evidence can be dismissed without evidence.”* — Hitchens

@@ -3,10 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Sumit&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 👨‍💻 About Me
-- Software Developer | Thinker
-- Movie & TV show addict 🎬 (1000+ watched)
-- Into dark, psychological storytelling  
-  *Dexter, Dark, Hannibal, From, The Mentalist*
+- Software Developer
 
 ## 🛠 Tech
 - Java, Spring Boot

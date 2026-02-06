@@ -28,7 +28,7 @@
 
 ## 🚀 Currently
 - Building backend-heavy Spring Boot applications
-- Exploring clean architecture & security best practices
+- Exploring clean architecture & System Design
 
 ---
 > *“What can be asserted without evidence can be dismissed without evidence.”* — Hitchens  

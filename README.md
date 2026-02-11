@@ -6,7 +6,7 @@
 - Software Developer
 
 ## 🛠 Tech
-- Java, Spring Boot
+- Java, Spring Boot, Kafka, Redis
 - ETL based python utilities
 - REST APIs
 - MySQL

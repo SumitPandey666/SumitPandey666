@@ -30,7 +30,7 @@
 - Building backend-heavy Spring Boot applications
 - Exploring clean architecture & System Design
 
----
+----
 > *“What can be asserted without evidence can be dismissed without evidence.”* — Hitchens  
 > *“There are no solutions. There are only trade-offs.”* — Thomas Sowell  
 > *“I would rather have questions that can’t be answered than answers that can’t be questioned.”* — Richard Feynman
